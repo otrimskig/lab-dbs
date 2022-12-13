@@ -1,0 +1,1 @@
+"holmen enzymes" {AgeI ApaI AscI AvaI AvrII BalI BamHI BanII BclI BglII BsgI BspHI BssHII BstEII BstXI BstYI ClaI DpnI DraI EcoRI EcoRV HindIII KpnI MluI MluNI MreI NcoI NdeI NheI NspI PacI PmeI PstI PvuII SacI SalI ScaI SmaI SpeI XbaI XhoI XmaI }
