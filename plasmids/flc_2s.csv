@@ -1,0 +1,56 @@
+,verify2,verify,num,plasmid,file_name,dist,path
+18,0,2,182,DANBP cmv gfp,cmv gfp,6,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/cmv gfp.dna
+49,1,2,1052,"FG12 CMV_3xFLAG-Pten, SV40_Luciferase-IRES-eGFP","FG12 3xFLAG-Pten, Luciferase-IRES-eGFP",9,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 3xFLAG-Pten, Luciferase-IRES-eGFP.dna"
+28,0,2,586,FG12 mBRAF GFP,"FG12 AKT1, GFP",5,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 AKT1, GFP.dna"
+50,1,2,1053,"FG12 CMV_His-Pten (C124A), SV40_Luciferase-IRES-eGFP","FG12 His-Pten (C124A), Luciferase-IRES-eGFP",9,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 His-Pten (C124A), Luciferase-IRES-eGFP.dna"
+37,1,2,796,FG12-CMV-mCherry,FG12 mCherry,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/Clifford Shin/Cloning/FG12 mCherry.gb
+51,1,2,1054,"FG12 CMV_Myc-Pten (G129E), SV40_Luciferase-IRES-eGFP","FG12 Myc-Pten (G129E), Luciferase-IRES-eGFP",9,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 Myc-Pten (G129E), Luciferase-IRES-eGFP.dna"
+38,2,2,830,"FG12cmv-FLAG-AKT1, GFP","FG12 myr-FLAG-AKT1, GFP",3,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 myr-FLAG-AKT1, GFP.dna"
+39,2,2,831,"FG12cmv-FLAG-AKT2, GFP","FG12 myr-FLAG-AKT2, GFP",3,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 myr-FLAG-AKT2, GFP.dna"
+40,2,2,832,"FG12cmv-FLAG-AKT3, GFP","FG12 myr-FLAG-AKT3, GFP",3,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12 myr-FLAG-AKT3, GFP.dna"
+21,1,2,311,FG12-CMV-CRE,FG12-CMV,4,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/FG12-CMV.dna
+54,1,2,1095,FG12 CMV_myr-HA-SGK3-K191M SV40_Luciferase-IRES-eGFP,FG12-CMV Myr-HA-hSGK3-K191M Luc2-IRES-eGFP,16,X:\Holmen Lab\./Lab Personnel/Tursun/Projects/SGK Projects/Cloning/FG12 CMV HA-Myr-SGK3 K191M/FG12-CMV Myr-HA-hSGK3-K191M Luc2-IRES-eGFP.dna
+53,1,2,1093,"FG12 CMV_myr-HA-SGK1-K127M, SV40_Luciferase-IRES-eGFP",FG12-CMV Myr-HA-SGK1-K127M Luc2-IRES-eGFP,16,X:\Holmen Lab\./Lab Personnel/Tursun/Projects/SGK Projects/Cloning/FG12 CMV HA-Myr-SGK1 K127M/FG12-CMV Myr-HA-SGK1-K127M Luc2-IRES-eGFP.dna
+27,0,2,548,HIF1 PCDUS 3.1,HIF1CDNA (1),7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/HIF1CDNA (1).dna
+1,0,2,21,RCAS k ras FLAG,K-ras FLAG,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/K-ras FLAG.dna
+2,0,2,23,RCAS h ras HA,k-ras HA,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/k-ras HA.dna
+43,1,2,941,pBluescript SK,pBluescript II SK -,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pBluescript II SK -.dna
+26,1,2,345,pcDNA3.1 hygro TVA,pCDNA3.1 hygro TVA 800,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pCDNA3.1 hygro TVA 800.dna
+46,1,2,1049,pCR8 GW His-Pten (C124A),pCR8 GW-TOPO His-Pten (C124A),5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pCR8 GW-TOPO His-Pten (C124A).dna
+47,1,2,1050,pCR8 GW Myc-Pten (G129E),pCR8 GW-TOPO Myc-Pten (G129E),5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pCR8 GW-TOPO Myc-Pten (G129E).dna
+48,1,2,1051,"pCR8 GW V5-Pten (C124A, G129E)","pCR8 GW-TOPO V5-Pten (C124A, G129E)",5,"X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pCR8 GW-TOPO V5-Pten (C124A, G129E).dna"
+20,2,2,240,pCR8 Myr AKT3,pCR8 myr-HA-AKT3,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pCR8 myr-HA-AKT3.dna
+36,2,2,789,pCR8-GW-TOPO-hEGF-HA,pCR8GW-TOPO-hEGFR-HA,2,X:\Holmen Lab\./Lab Personnel/Former Lab Members/Clifford Shin/Cloning/pCR8GW-TOPO-hEGFR-HA.gb
+52,2,2,1089,pDONR223_SGK3 (WT),pDONR223-SGK3,6,X:\Holmen Lab\./Gennie/Cloning/SGKs/pDONR223-SGK3.dna
+25,2,2,343,pENTR 3C mU6,pENTR-3C (1),4,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR-3C (1).dna
+24,1,2,342,pENTR 3C 2loxP DsRed FRT GFP,pENTR-3C 2LoxP DsRed2 GFP,6,X:\Holmen Lab\./Lab Personnel/Former Lab Members/Clifford Shin/Cloning/pENTR-3C 2LoxP DsRed2 GFP.gb
+7,1,2,133,pENTR3C cU6 2 chicken GAPDH,pENTR3C-cU6-2shchickenGAPDH,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-cU6-2shchickenGAPDH.dna
+31,2,2,623,pENTR3C-H1-shCtrl,pENTR3C-H1-shGFP,4,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-H1-shGFP.dna
+8,2,2,171,pENTR3c RAV2 112,pENTR3C-mirRAV-2-112,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-mirRAV-2-112.dna
+9,2,2,172,pENTR3c RAV2 214,pENTR3C-mirRAV-2-214,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-mirRAV-2-214.dna
+10,2,2,173,pENTR3c RAV2 408,pENTR3C-mirRAV-2-408,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-mirRAV-2-408.dna
+11,2,2,174,pENTR3c RAV2 510,pENTR3C-mirRAV-2-510,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-mirRAV-2-510.dna
+12,2,2,175,pENTR3c RAV2 854,pENTR3C-mirRAV-2-854,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR3C-mirRAV-2-854.dna
+4,2,2,56,pENTR3C BRAF,pENTREDmBRAF,3,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTREDmBRAF.dna
+29,1,2,607,pENTR201-H1-shGAPDH,pENTR-H1-GAPDH,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pENTR-H1-GAPDH.dna
+19,0,2,214,pENTR TRE,pENTRT11,3,X:\Holmen Lab\./Holmen Lab NVCI/James/vectorstuff/pENTRT11.gb
+41,1,2,892,pHIV Luciferase-IRES-ZsGreen (lentivirus),pHIV Luciferase-IRES-ZsGreen (lentiv) (#892),7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pHIV Luciferase-IRES-ZsGreen (lentiv) (#892).dna
+30,1,2,613,pTRIPZ-RFA-DV,pTRIPZ  RFA,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/pTRIPZ  RFA.dna
+13,0,2,176,RCAS mir 112,RAV-2 miRNA 112,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RAV-2 miRNA 112.dna
+14,0,2,177,RCAS mir 214,RAV-2 miRNA 214,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RAV-2 miRNA 214.dna
+15,0,2,178,RCAS mir 408,RAV-2 miRNA 408,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RAV-2 miRNA 408.dna
+16,0,2,179,RCAS mir 510,RAV-2 miRNA 510,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RAV-2 miRNA 510.dna
+17,0,2,180,RCAS mir 854,RAV-2 miRNA 854,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RAV-2 miRNA 854.dna
+45,0,2,978,RCAN TRE3 myr-FLAG-AKT1,RCAN TRE3 myr-HA-Akt1,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCAN TRE3 myr-HA-Akt1.dna
+33,1,2,640,RCANBP(A)xTRE2 GFP,RCANBP(A)-TRE-eGFP,3,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCANBP(A)-TRE-eGFP.dna
+23,1,2,336,RCAN(A) TRE-EGFRvIII,RCANBP(A)-TREEGFRvIII,4,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCANBP(A)-TREEGFRvIII.dna
+32,0,2,639,RCANBP(A)xTRE2(DV),RCANBP(A)TZTRE (DV),3,X:\Holmen Lab\./Lab Personnel/Former Lab Members/Clifford Shin/Cloning/RCANBP(A)TZTRE (DV).gb
+34,1,2,652,RCANBP(A)xTRE2 msBRAF-VE,RCANBP(A)xTRE2 -mBRAF V597E,6,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCANBP(A)xTRE2 -mBRAF V597E.dna
+42,0,2,927,FG12 HA Akt1 E17K,RCAS HA-Akt1 E17K,5,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCAS HA-Akt1 E17K.dna
+44,0,2,943,RCAS myr-FLAG AKT 1PL/2KR,RCAS myr_FLAG_AKT 3PKR2L,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCAS myr_FLAG_AKT 3PKR2L.dna
+22,2,2,327,RCASBP(A) BRAF V600E HisA,RCASBP(A)-BRAF(V600E)V5 HisA,5,X:\Holmen Lab\./Holmen Lab NVCI/Eric/VNTI Database-SH-EJ/RCASBP(A)-BRAF(V600E)V5 HisA.gb
+6,2,2,104,RCASBP(M) T34A survivin,RCASBP(M)-survivin,6,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCASBP(M)-survivin.dna
+5,0,2,62,RCAS Y DV RSK CAII,RCAS-RSK CA II,7,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCAS-RSK CA II.dna
+3,0,2,55,RCAS Y DV BRAF V599E,RCAS-Y DV-A -mBRAF V597E,6,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCAS-Y DV-A -mBRAF V597E.dna
+35,2,2,694,RCAS y DV (A) TetOff-P2A-NLS-myc-Cre,RCAS-Y DV-A-TET-OFF-P2A-NLS-Myc-Cre@4,14,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/RCAS-Y DV-A-TET-OFF-P2A-NLS-Myc-Cre@4.dna
+55,0,2,1103,RCAS-DsRedEx2,SA-DsRed,6,X:\Holmen Lab\./Lab Personnel/Former Lab Members/David/MAIN (files from desktop)/SnapGene files/SA-DsRed.dna

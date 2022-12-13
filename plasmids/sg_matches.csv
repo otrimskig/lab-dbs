@@ -1,0 +1,186 @@
+"","vector_number","vector_name","search_term","sg_files","dist"
+"1",198,"RAP","RAP.dna","RAP1.dna",1
+"2",668,"pDEST12.2","pDEST12.2.dna","pDEST22.dna",2
+"3",199,"MESD","MESD.dna","M13.dna",3
+"4",1008,"psPAK","psPAK.dna","EPAC.dna",3
+"5",781,"psPAX2","psPAX2.dna","pSP72.dna",3
+"6",183,"DASBR","DASBR.dna","ADCY7.dna",4
+"7",214,"pENTR TRE","pENTR TRE.dna","pENTR11.dna",4
+"8",1007,"pMD2.G","pMD2.G.dna","pCR3.1.dna",4
+"9",352,"RCANBP M DV","RCANBP M DV.dna","RCAN-X DV.dna",4
+"10",1111,"RCAS-GFP","RCAS-GFP.dna","RCAS-Y DV.dna",4
+"11",300,"FG12  /","FG12  /.dna","YGL253W.dna",5
+"12",1044,"Fubp1smURFP Neo ex15 HDR FRT in pUC57","Fubp1smURFP Neo ex15 HDR FRT in pUC57.dna","1044-Fubp1smURFP Neo ex15 HDR FRT in pUC57.dna",5
+"13",1043,"Fubp1smURFP Neo ex2 HDR FRT in pUC57","Fubp1smURFP Neo ex2 HDR FRT in pUC57.dna","1043-Fubp1smURFP Neo ex2 HDR FRT in pUC57.dna",5
+"14",442,"KH-1LV","KH-1LV.dna","BPV1.dna",5
+"15",189,"pBK7 6 2","pBK7 6 2.dna","pBLCAT2.dna",5
+"16",963,"pcDNA3 eGFP","pcDNA3 eGFP.dna","pcDNA3.1 GS.dna",5
+"17",995,"pCMV-VSVG","pCMV-VSVG.dna","pCMVbeta.dna",5
+"18",237,"pCR8 AKT3","pCR8 AKT3.dna","pBLCAT3.dna",5
+"19",1017,"pCR8 GW Dnm1l","pCR8 GW Dnm1l.dna","1017-pCR8 GW Dnm1l.dna",5
+"20",1010,"pCR8 GW TOPO HA-FAK","pCR8 GW TOPO HA-FAK.dna","1010-pCR8 GW TOPO HA-FAK.dna",5
+"21",257,"pDEST R4 R3 (from Dong)","pDEST R4 R3 (from Dong).dna","0257-pDEST R4 R3 (from Dong).dna",5
+"22",1022,"pDONR223_PIK3CA_p.H1047R","pDONR223_PIK3CA_p.H1047R.dna","1022-pDONR223_PIK3CA_p.H1047R.dna",5
+"23",1023,"pENTR-2B U6 sgRNA FUBP1 exon 1","pENTR-2B U6 sgRNA FUBP1 exon 1.dna","1023-pENTR-2B U6 sgRNA FUBP1 exon 1.dna",5
+"24",1025,"pENTR-2B U6 sgRNA FUBP1 exon 15","pENTR-2B U6 sgRNA FUBP1 exon 15.dna","1025-pENTR-2B U6 sgRNA FUBP1 exon 15.dna",5
+"25",1026,"pENTR-2B U6 sgRNA FUBP1 exon 16","pENTR-2B U6 sgRNA FUBP1 exon 16.dna","1026-pENTR-2B U6 sgRNA FUBP1 exon 16.dna",5
+"26",1024,"pENTR-2B U6 sgRNA FUBP1 exon 2","pENTR-2B U6 sgRNA FUBP1 exon 2.dna","1024-pENTR-2B U6 sgRNA FUBP1 exon 2.dna",5
+"27",343,"pENTR 3C mU6","pENTR 3C mU6.dna","pENTR3C.dna",5
+"28",310,"pSICO p53","pSICO p53.dna","pPICZ A.dna",5
+"29",1,"RCAS AP","RCAS AP.dna","pCS19.dna",5
+"30",193,"FG12 cmv","FG12 cmv.dna","pSV2-cat.dna",6
+"31",201,"Lrp5 D11Y","Lrp5 D11Y.dna","pATH11.dna",6
+"32",334,"pcDNA3.1 BRAF WT","pcDNA3.1 BRAF WT.dna","pcDNA3.1 His A.dna",6
+"33",489,"pCR8 CRE","pCR8 CRE.dna","pBC1.dna",6
+"34",738,"pDONOR-221_iLOV","pDONOR-221_iLOV.dna","pDONR221_verD.dna",6
+"35",1102,"pENTR 2B Cre U6 Sapl","pENTR 2B Cre U6 Sapl.dna","pENTR-2B  U6  SapI.dna",6
+"36",56,"pENTR3C BRAF","pENTR3C BRAF.dna","pENTR2B.dna",6
+"37",185,"penv(A)","penv(A).dna","Adeno2.dna",6
+"38",45,"pYAP6 GFP","pYAP6 GFP.dna","pFL64P.dna",6
+"39",12,"RCAS B lac","RCAS B lac.dna","pCAT-Basic.dna",6
+"40",34,"RCAS Nk4","RCAS Nk4.dna","pACYC184.dna",6
+"41",9,"RCAS Tag","RCAS Tag.dna","3Xflag.dna",6
+"42",928,"FG12 HA Akt1 E17K","FG12 HA Akt1 E17K.dna","pCR8 HA-Akt1 E40K.dna",7
+"43",204,"Lrp5 A214T","Lrp5 A214T.dna","pATH21.dna",7
+"44",206,"Lrp5 A242T","Lrp5 A242T.dna","pATH2.dna",7
+"45",202,"Lrp5 G171R","Lrp5 G171R.dna","pIJ101.dna",7
+"46",207,"Lrp5 T253I","Lrp5 T253I.dna","pATH23.dna",7
+"47",799,"penv(A) wt","penv(A) wt.dna","pcDNA4 TO.dna",7
+"48",30,"RCAS Bfl 1","RCAS Bfl 1.dna","ColE1.dna",7
+"49",330,"Bfl 1 pYAP6","Bfl 1 pYAP6.dna","pYAC4.dna",8
+"50",181,"DASBP egfp","DASBP egfp.dna","MAP2K1.dna",8
+"51",239,"pCR8 c Kit HA","pCR8 c Kit HA.dna","pcDNA4 His A.dna",8
+"52",254,"pCR8 DYNLL2","pCR8 DYNLL2.dna","CDK2.dna",8
+"53",906,"pCR8 HA-mYB1","pCR8 HA-mYB1.dna","pCR2.1-TOPO.dna",8
+"54",525,"pDEST FG12AKT1","pDEST FG12AKT1.dna","pDEST15.dna",8
+"55",234,"pENTR 3C Bim V5","pENTR 3C Bim V5.dna","pENTR SD D-TOPO.dna",8
+"56",47,"pEntr3C GFP","pEntr3C GFP.dna","pEMBL8P.dna",8
+"57",200,"wt Lrp5 Myc","wt Lrp5 Myc.dna","pFL59M.dna",8
+"58",298,"FG12 CMV-HGF","FG12 CMV-HGF.dna","pGEM-1.dna",9
+"59",942,"pBluescript SK","pBluescript SK.dna","pBlu2KSM.dna",9
+"60",389,"pBLUESCRIPT SK","pBLUESCRIPT SK.dna","pBLCAT5.dna",9
+"61",775,"pCMV6XL4-hEGF","pCMV6XL4-hEGF.dna","pAd PL-DEST.dna",9
+"62",404,"pCR8-Bmf S74A","pCR8-Bmf S74A.dna","pBAD-DEST49.dna",9
+"63",506,"pEFM- EGFP- V5","pEFM- EGFP- V5.dna","pEF-DEST51.dna",9
+"64",233,"pENTR 3C Mcl 1 HA","pENTR 3C Mcl 1 HA.dna","pENTR5' CMVp_verA.dna",9
+"65",773,"pMD18T-hHBEGF","pMD18T-hHBEGF.dna","pET104-DEST.dna",9
+"66",614,"pTRIPZ-RFA-DV","pTRIPZ-RFA-DV.dna","pCRII-TOPO.dna",9
+"67",331,"RCAS CRAF 22W","RCAS CRAF 22W.dna","YCR012W.dna",9
+"68",178,"RCAS mir 408","RCAS mir 408.dna","SV40.dna",9
+"69",179,"RCAS mir 510","RCAS mir 510.dna","pATH10.dna",9
+"70",180,"RCAS mir 854","RCAS mir 854.dna","HSU33054.dna",9
+"71",29,"RCAS p25 IRS","RCAS p25 IRS.dna","pcDNA5 FRT.dna",9
+"72",301,"FG12 CMV V5 MEK GF","FG12 CMV V5 MEK GF.dna","pAd CMV V5-DEST.dna",10
+"73",308,"FG12 CMV X!AP","FG12 CMV X!AP.dna","pGEM-3ZfP.dna",10
+"74",878,"pcDNA3.1 myr 2PL/1KR","pcDNA3.1 myr 2PL/1KR.dna","pcDNA3.1 CT-GFP-TOPO.dna",10
+"75",432,"pcDNA6 chick sox 11","pcDNA6 chick sox 11.dna","pcDNA4 His C.dna",10
+"76",996,"pCMV-dR8.2 dvpr","pCMV-dR8.2 dvpr.dna","pSV2-dhfr.dna",10
+"77",604,"PCR8 IDH1wt HA","PCR8 IDH1wt HA.dna","PDE1A.dna",10
+"78",502,"pDest 12-2 CRE","pDest 12-2 CRE.dna","pDeltaBlue.dna",10
+"79",194,"pDest FG12 cmv","pDest FG12 cmv.dna","pFastBacT1.dna",10
+"80",827,"pDONOR-221_hADAM17","pDONOR-221_hADAM17.dna","pDONR221-P1P5r.dna",10
+"81",1040,"pENTR-2B 3XFLAG-PIK3CA-H1047R","pENTR-2B 3XFLAG-PIK3CA-H1047R.dna","pCR8 GW-TOPO 3XFLAG-PIK3CA-H1047R.dna",10
+"82",376,"pENTR 3C H1 Bad24","pENTR 3C H1 Bad24.dna","pENTR L5-lacI-L4.dna",10
+"83",774,"pMD18T-mHBEGF","pMD18T-mHBEGF.dna","M13mp18.dna",10
+"84",161,"pTRE2Hygro Bik","pTRE2Hygro Bik.dna","pRSVneo (1).dna",10
+"85",737,"RCAS METx3Flag","RCAS METx3Flag.dna","SMT3H1.dna",10
+"86",1110,"RCASBP(A)-Cre","RCASBP(A)-Cre.dna","pCEP4_verC.dna",10
+"87",32,"RSKwt RCAS GW","RSKwt RCAS GW.dna","pSV2RbetaG.dna",10
+"88",839,"ACZEGP TRE3 MCS","ACZEGP TRE3 MCS.dna","SCYGR244C.dna",11
+"89",315,"FG12 CMV HIF 2","FG12 CMV HIF 2.dna","Fubp1  NM_057172.dna",11
+"90",510,"FG12 KIAA STOP","FG12 KIAA STOP.dna","pBAD-TOPO.dna",11
+"91",686,"pcDNA3.1-ProHB-EGF-CS","pcDNA3.1-ProHB-EGF-CS.dna","pcDNA3.1 Hygro(-).dna",11
+"92",713,"pcDNA3.1-ProHB-EGF-NC","pcDNA3.1-ProHB-EGF-NC.dna","pcDNA3.1 V5-His C.dna",11
+"93",712,"pcDNA3.1-ProHB-EGF-WT","pcDNA3.1-ProHB-EGF-WT.dna","pcDNA3.1 nV5-DEST.dna",11
+"94",880,"pcDNA3.2 FLAG 2P/1LKR","pcDNA3.2 FLAG 2P/1LKR.dna","pcDNA3.1 NT-GFP-TOPO.dna",11
+"95",921,"pCR8 HA mAKT1 WT","pCR8 HA mAKT1 WT.dna","pCRT7 CT-TOPO.dna",11
+"96",455,"pcr8/GW/TOPO Mek2","pcr8/GW/TOPO Mek2.dna","pcDNA3.3 TOPO_verB.dna",11
+"97",328,"pDEST RCAS HA NRAS","pDEST RCAS HA NRAS.dna","pDESTR4-R3.dna",11
+"98",509,"pDEST12-2 KIAA STOP","pDEST12-2 KIAA STOP.dna","pET102 D-TOPO.dna",11
+"99",374,"pENTR 3C H1 Bim 37","pENTR 3C H1 Bim 37.dna","pENTR TEV D-TOPO.dna",11
+"100",251,"FG12 CMV DYNLL1","FG12 CMV DYNLL1.dna","FYN.dna",12
+"101",195,"FG12 cmv mir510","FG12 cmv mir510.dna","M13mp19.dna",12
+"102",319,"FG12 GFP STAT 3C","FG12 GFP STAT 3C.dna","pFastBacTHT C.dna",12
+"103",522,"FG12 NO GFP+CMV","FG12 NO GFP+CMV.dna","GNG5.dna",12
+"104",428,"pcB6 WTA delta513","pcB6 WTA delta513.dna","pcDNA-DEST53.dna",12
+"105",564,"PCR8 BRCA1 T1691A","PCR8 BRCA1 T1691A.dna","pBLCAT6.dna",12
+"106",929,"pCR8 GW/TOPO HA-Akt3","pCR8 GW/TOPO HA-Akt3.dna","pCR8 GW-TOPO Entry Vector.dna",12
+"107",926,"pCR8 V5 p53 R273C","pCR8 V5 p53 R273C.dna","pBR327.dna",12
+"108",765,"pENTR myr-FLAG-AKT3","pENTR myr-FLAG-AKT3.dna","pENTR L3-pLac-Tet-L2.dna",12
+"109",993,"pLKO puro shFak B","pLKO puro shFak B.dna","pPICZalpha B.dna",12
+"110",994,"pLKO puro shFak C","pLKO puro shFak C.dna","pPICZalpha C.dna",12
+"111",395,"RCAS-Y p53 R273L","RCAS-Y p53 R273L.dna","pUR278.dna",12
+"112",323,"FG12 CMV BRAF #28","FG12 CMV BRAF #28.dna","pBR328.dna",13
+"113",196,"FG12 cmv Jdcont","FG12 cmv Jdcont.dna","Lambda.dna",13
+"114",518,"FG12 DSRED MHGFX","FG12 DSRED MHGFX.dna","pGEM-3Z.dna",13
+"115",314,"FG12 GFP BRAF VE","FG12 GFP BRAF VE.dna","GPRK2L.dna",13
+"116",487,"FG12 GFP C-KIT WT","FG12 GFP C-KIT WT.dna","pET200 D-TOPO.dna",13
+"117",454,"KH-1LV Ral A06 #8","KH-1LV Ral A06 #8.dna","YLR062W.dna",13
+"118",405,"pCR8-Bim S69A S59A","pCR8-Bim S69A S59A.dna","pCR-Blunt II-TOPO.dna",13
+"119",914,"pCR8 HA mYB1 S100D","pCR8 HA mYB1 S100D.dna","pRS200.dna",13
+"120",337,"pCR8/GW/topo c KIT","pCR8/GW/topo c KIT.dna","pcr4_topo_verC.dna",13
+"121",533,"Pdest fg12 ccl7","Pdest fg12 ccl7.dna","pACYC177.dna",13
+"122",303,"pDEST FG12 CMV TFAP2","pDEST FG12 CMV TFAP2.dna","pET101 D-TOPO.dna",13
+"123",702,"pDEST12.2 WT IDH2-HA","pDEST12.2 WT IDH2-HA.dna","pET160-GW D-TOPO.dna",13
+"124",213,"pENTR3C TRE KRAS FLAG","pENTR3C TRE KRAS FLAG.dna","pENTR5' EF1ap_verA.dna",13
+"125",269,"pTRE2 hygro DsRed2","pTRE2 hygro DsRed2.dna","pcDNA6.2 Hygro-DEST.dna",13
+"126",905,"RCAS 3xFLAG hH3R9","RCAS 3xFLAG hH3R9.dna","pFL39.dna",13
+"127",927,"RCAS V5 p53 R273C","RCAS V5 p53 R273C.dna","pcDNA6 V5-His C.dna",13
+"128",291,"FG12 cmv TFAP2beta","FG12 cmv TFAP2beta.dna","pRSET BFP_verA.dna",14
+"129",453,"KH-1 LV RalA05 #7","KH-1 LV RalA05 #7.dna","HSU33055.dna",14
+"130",817,"pCR8-GW-topo-hAXL-HA","pCR8-GW-topo-hAXL-HA.dna","pentr5'_topo_verA.dna",14
+"131",373,"pENTR 3C C84A survivin","pENTR 3C C84A survivin.dna","pET303 CT-His_verA.dna",14
+"132",777,"plentiCRISPRv2-s9-AXL","plentiCRISPRv2-s9-AXL.dna","plenti6tr_verB.dna",14
+"133",148,"pTet On (From MVB)","pTet On (From MVB).dna","pet_sumo_verA.dna",14
+"134",162,"pTRE2Hygro BikL61G","pTRE2Hygro BikL61G.dna","pEMBL8M.dna",14
+"135",160,"pTRE2Hygro BMFL138A","pTRE2Hygro BMFL138A.dna","pFL38.dna",14
+"136",1041,"RCAS 3XFLAG-PIK3CA-H1047R","RCAS 3XFLAG-PIK3CA-H1047R.dna","3XFLAG_PIK3CA_H1047R Insert.dna",14
+"137",28,"RCAS cdk5 IRES p25","RCAS cdk5 IRES p25.dna","pRS425.dna",14
+"138",421,"RCASBP(A) EGFRviii","RCASBP(A) EGFRviii.dna","pRSET EmGFP_verA.dna",14
+"139",431,"pcDNA6 mouse sox 10 - V5","pcDNA6 mouse sox 10 - V5.dna","pcDNA6 V5-His A.dna",15
+"140",260,"pDEST FG12 CMV cMET #7","pDEST FG12 CMV cMET #7.dna","pDEST17.dna",15
+"141",441,"pDEST FG12 NRasQ61R HA","pDEST FG12 NRasQ61R HA.dna","pDEST26.dna",15
+"142",606,"pENTR3C-P16-WT-IRES_CRE","pENTR3C-P16-WT-IRES_CRE.dna","pET301 CT-DEST_verA.dna",15
+"143",778,"plentiCRISPRv2-s7-IDH1","plentiCRISPRv2-s7-IDH1.dna","plenti4to_v5dest_verB.dna",15
+"144",434,"pLNcx mouse Wnt7b HA","pLNcx mouse Wnt7b HA.dna","pet_sumo_cat_verA.dna",15
+"145",418,"pTet Off (From MVB)","pTet Off (From MVB).dna","pcDNA3.1 Hygro(+).dna",15
+"146",17,"RCAS B AKT (bovine)","RCAS B AKT (bovine).dna","pCEP4CAT_verC.dna",15
+"147",811,"RCASBP(A)-hADAM17-HA","RCASBP(A)-hADAM17-HA.dna","pEXP-AD22_verA.dna",15
+"148",808,"RCASBP(A)-mHbegf-HA","RCASBP(A)-mHbegf-HA.dna","pMAC5-bg14.dna",15
+"149",302,"FG12 MMP9  (no GFP)","FG12 MMP9  (no GFP).dna","HUMGPRKLG.dna",16
+"150",317,"FG12 STAT3C (no GFP)","FG12 STAT3C (no GFP).dna","pcDNA3.1 Zeo(+).dna",16
+"151",452,"KH-1 LV Ral B08 #20","KH-1 LV Ral B08 #20.dna","GRB2.dna",16
+"152",414,"pDest-Shuttle-(GW  B)","pDest-Shuttle-(GW  B).dna","pFastBacTHT B.dna",16
+"153",943,"pENTR myr-FLAG AKT 1PL/2KR","pENTR myr-FLAG AKT 1PL/2KR.dna","pENTR L5-pLac-Spec-L2.dna",16
+"154",776,"plentiCRISPRv2-s11-EGFR","plentiCRISPRv2-s11-EGFR.dna","pLenti6 V5-DEST.dna",16
+"155",353,"RCANBP (A) TRE GFP c2","RCANBP (A) TRE GFP c2.dna","pcDNA5 FRT TO-TOPO.dna",16
+"156",246,"RCAS DV (A) Bcl xL HA","RCAS DV (A) Bcl xL HA.dna","pcDNA3.1(+) myc-His A.dna",16
+"157",556,"RCASBP(A) hIREα Q780","RCASBP(A) hIREα Q780.dna","pJIR750.dna",16
+"158",215,"FG12 CMV RSK K94/447R","FG12 CMV RSK K94/447R.dna","pRS424.dna",17
+"159",263,"pBluescript SK   RFA #1","pBluescript SK   RFA #1.dna","pBlu2SKP.dna",17
+"160",615,"pENTR3C-FLAG-p16wt-IRES-GFP","pENTR3C-FLAG-p16wt-IRES-GFP.dna","pENTR R4-pLac-Spect-R3.dna",17
+"161",356,"pENTR3C NRAS (HA) IRES CRE","pENTR3C NRAS (HA) IRES CRE.dna","pENTR3C DUAL SELECTION VECTOR.dna",17
+"162",136,"pENTR3C TRE Akt HA mp DNA","pENTR3C TRE Akt HA mp DNA.dna","pENTR222_custom_verA.dna",17
+"163",979,"RCAN TRE3 myr-FLAG-AKT1","RCAN TRE3 myr-FLAG-AKT1.dna","pcDNA4 TO myc-His A.dna",17
+"164",831,"FG12cmv-FLAG-AKT1, GFP","FG12cmv-FLAG-AKT1, GFP.dna","pGeneBLAzer-TOPO.dna",18
+"165",562,"pCR blunt II topo MMP10 cdna","pCR blunt II topo MMP10 cdna.dna","pcr4blunt_topo_verC.dna",18
+"166",682,"pCR8-myr-AKT3-2A-NLS-Cre","pCR8-myr-AKT3-2A-NLS-Cre.dna","pBLOCK-iT3-DEST_verA.dna",18
+"167",727,"RCANBP(A) TRE2-myr-HA-AKT3","RCANBP(A) TRE2-myr-HA-AKT3.dna","pcDNA4 TO myc-His B.dna",18
+"168",1032,"RCAS Cre NF1 ex2 sgRNA","RCAS Cre NF1 ex2 sgRNA.dna","Fubp1 genomic DNA.dna",18
+"169",542,"RCAS y DV(A) myc-hIRE1α WT","RCAS y DV(A) myc-hIRE1α WT.dna","pcDNA3.1(+) myc-His B.dna",18
+"170",591,"RCASBP(A) hIRE1α R635W","RCASBP(A) hIRE1α R635W.dna","FUBP1  NM_001303433.dna",18
+"171",570,"FG12 NO GFP hIRE1a P830L","FG12 NO GFP hIRE1a P830L.dna","pDONRP2R-P3.dna",19
+"172",270,"pDEST FG12 CMV GFP Bcl W HA","pDEST FG12 CMV GFP Bcl W HA.dna","pcDNA6.2 C-EmGFP TOPO_verA.dna",19
+"173",276,"pDEST FG12 CMV GFP CCND1 HA","pDEST FG12 CMV GFP CCND1 HA.dna","pcDNA6.2 N-EmGFP VECTOR II.dna",19
+"174",987,"pDEST12.2 GOLM1 G370E-FLAG","pDEST12.2 GOLM1 G370E-FLAG.dna","pDEST20.dna",19
+"175",666,"pDEST12.2 VC155-ProTev-WT IDH1","pDEST12.2 VC155-ProTev-WT IDH1.dna","pYES2.1 V5-His-TOPO.dna",19
+"176",901,"pENTR1A 3xflag-LSD1 (human)","pENTR1A 3xflag-LSD1 (human).dna","pENTR L1-pLac-LacZalpha-L4.dna",19
+"177",503,"pShuttle IDH-1Mutant GFP","pShuttle IDH-1Mutant GFP.dna","pcDNA4 HisMax-TOPO.dna",19
+"178",872,"RCAS AKT3 T305A HA (Cterm)","RCAS AKT3 T305A HA (Cterm).dna","pcDNA3.3 TOPO lacZ_verB.dna",19
+"179",868,"RCAS myr-Akt2 HA (Cterm)","RCAS myr-Akt2 HA (Cterm).dna","pef6mychisA_verB.dna",19
+"180",115,"Bim EL T34A (from mp#39)","Bim EL T34A (from mp#39).dna","3XFLAG PIK3CA Topo Insert.dna",20
+"181",425,"FG12 CMV dsRed V5 Bmf T72A","FG12 CMV dsRed V5 Bmf T72A.dna","pcDNA5 FRT V5-His-TOPO.dna",20
+"182",826,"FG12cmv-hEGFR-HA_UbC-GFP","FG12cmv-hEGFR-HA_UbC-GFP.dna","pcDN3.1 V5-His-TOPO.dna",20
+"183",711,"pDEST12.2 VN173-WTIDH1-VC155","pDEST12.2 VN173-WTIDH1-VC155.dna","pcDNA6.2 V5-GW D-TOPO.dna",20
+"184",697,"pDEST12.2 WT IDH1-HA (human)","pDEST12.2 WT IDH1-HA (human).dna","pET161-GW D-TOPO.dna",20
+"185",209,"RCASBP(A)Tet On IRES Puro","RCASBP(A)Tet On IRES Puro.dna","pCR4BLUNT-TOPO.dna",20

@@ -1,0 +1,137 @@
+LOCUS       pENTR-3C\2LoxP\DsRed2\GFP        3936 bp    DNA     circular     23-MAR-2009
+SOURCE      
+  ORGANISM  
+COMMENT     This file is created by Vector NTI
+            http://www.invitrogen.com/
+COMMENT     VNTDATE|513504444|
+COMMENT     VNTDBDATE|513504444|
+COMMENT     LSOWNER|
+COMMENT     VNTNAME|pENTR-3C 2LoxP DsRed2 GFP|
+COMMENT     VNTAUTHORNAME|Demo User|
+FEATURES             Location/Qualifiers
+     CDS             245..922
+                     /vntifkey="4"
+                     /label=DsRed2
+     primer_bind     complement(425..445)
+                     /vntifkey="28"
+                     /label=DsRed\Reverse\primer
+     primer_bind     837..860
+                     /vntifkey="28"
+                     /label=DsRed\Forward\primer
+     misc_feature    67..166
+                     /vntifkey="21"
+                     /label=attL1
+     misc_feature    1874..1973
+                     /vntifkey="21"
+                     /label=attL2
+     CDS             2096..2905
+                     /vntifkey="4"
+                     /label=Kmr
+     rep_origin      3010..3583
+                     /vntifkey="33"
+                     /label=ori
+     misc_marker     3751..3794
+                     /vntifkey="22"
+                     /label=T1
+     misc_marker     3926..17
+                     /vntifkey="22"
+                     /label=T2
+     misc_recomb     171..204
+                     /vntifkey="86"
+                     /label=LoxP\site
+     misc_recomb     954..987
+                     /vntifkey="86"
+                     /label=LoxP\site
+     misc_feature    1793..1826
+                     /vntifkey="21"
+                     /label=FRT\site
+     snRNA           1141..1161
+                     /vntifkey="57"
+                     /label=sh\miR\seq
+     snRNA           1426..1444
+                     /vntifkey="57"
+                     /label=shGFP(5)\389
+     snRNA           1282..1300
+                     /vntifkey="57"
+                     /label=shGFP(4)\245
+     snRNA           1095..1113
+                     /vntifkey="57"
+                     /label=shGFP(3)\58
+     snRNA           1235..1253
+                     /vntifkey="57"
+                     /label=shGFP(2)\198
+     snRNA           1574..1592
+                     /vntifkey="57"
+                     /label=shGFP(1)\537
+     CDS             1038..1760
+                     /vntifkey="4"
+                     /label=eGFP
+BASE COUNT     1026 a       973 c       979 g       958 t 
+ORIGIN
+        1 ctgacggatg gcctttttgc gtttctacaa actcttcctg ttagttagtt acttaagctc 
+       61 gggccccaaa taatgatttt attttgactg atagtgacct gttcgttgca acaaattgat 
+      121 aagcaatgct tttttataat gccaactttg tacaaaaaag caggctcttt ataacttcgt 
+      181 atagcataca ttatacgaag ttatttaaag gaaccaattc agtcgggatc caccggtcgc 
+      241 caccatggcc tcctccgaga acgtcatcac cgagttcatg cgcttcaagg tgcgcatgga 
+      301 gggcaccgtg aacggccacg agttcgagat cgagggcgag ggcgagggcc gcccctacga 
+      361 gggccacaac accgtgaagc tgaaggtgac caagggcggc cccctgccct tcgcctggga 
+      421 catcctgtcc ccccagttcc agtacggctc caaggtgtac gtgaagcacc ccgccgacat 
+      481 ccccgactac aagaagctgt ccttccccga gggcttcaag tgggagcgcg tgatgaactt 
+      541 cgaggacggc ggcgtggcga ccgtgaccca ggactcctcc ctgcaggacg gctgcttcat 
+      601 ctacaaggtg aagttcatcg gcgtgaactt cccctccgac ggccccgtga tgcagaagaa 
+      661 gaccatgggc tgggaggcct ccaccgagcg cctgtacccc cgcgacggcg tgctgaaggg 
+      721 cgagacccac aaggccctga agctgaagga cggcggccac tacctggtgg agttcaagtc 
+      781 catctacatg gccaagaagc ccgtgcagct gcccggctac tactacgtgg acgccaagct 
+      841 ggacatcacc tcccacaacg aggactacac catcgtggag cagtacgagc gcaccgaggg 
+      901 ccgccaccac ctgttcctgt agcggccgct ctagaactag tggatccccc gggataactt 
+      961 cgtatagcat acattatacg aagttatctg caggaattcg gcttgtaagg taccgagctc 
+     1021 ggatcctcta gagcaccatg gccggatcta gtaaaggaga agaacttttc actggagttg 
+     1081 tcccaattct tgttgaatta gatggtgatg ttaatgggca caaattttct gtcagtggag 
+     1141 agggtgaagg tgatgcaaca tacggaaaac ttacccttaa atttatttgc actactggaa 
+     1201 aactacctgt tccatggcca acacttgtca ctactctcac ttatggtgtt caatgctttt 
+     1261 caagataccc agatcatatg aagcggcacg acttcttcaa gagcgccatg cctgagggat 
+     1321 acgtgcagga gaggaccatc ttcttcaagg acgacgggaa ctacaagaca cgtgctgaag 
+     1381 tcaagtttga gggagacacc ctcgtcaaca ggatcgagct taagggaatc gatttcaagg 
+     1441 aggacggaaa catcctcggc cacaagttgg aatacaacta caactcccac aacgtataca 
+     1501 tcatggccga caagcaaaag aacggcatca aagccaactt caagacccgc cacaacatcg 
+     1561 aagacggcgg cgtgcaactc gctgatcatt atcaacaaaa tactccaatt ggcgatggcc 
+     1621 ctgtcctttt accagacaac cattacctgt ccacacaatc tgccctttcg aaagatccca 
+     1681 acgaaaagag agaccacatg gtccttcttg agtttgtaac agctgctggg attacacatg 
+     1741 gcatggatga actatactaa gcggccgctc gagccttcga agatctccta gggaagttcc 
+     1801 tatactttct agagaatagg aacttcggaa taggaacttc accggtgggt gaaaagccga 
+     1861 attcgatatc tagacccagc tttcttgtac aaagttggca ttataagaaa gcattgctta 
+     1921 tcaatttgtt gcaacgaaca ggtcactatc agtcaaaata aaatcattat ttgccatcca 
+     1981 gctgcagctc tggcccgtgt ctcaaaatct ctgatgttac attgcacaag ataaaaatat 
+     2041 atcatcatga acaataaaac tgtctgctta cataaacagt aatacaaggg gtgttatgag 
+     2101 ccatattcaa cgggaaacgt cgaggccgcg attaaattcc aacatggatg ctgatttata 
+     2161 tgggtataaa tgggctcgcg ataatgtcgg gcaatcaggt gcgacaatct atcgcttgta 
+     2221 tgggaagccc gatgcgccag agttgtttct gaaacatggc aaaggtagcg ttgccaatga 
+     2281 tgttacagat gagatggtca gactaaactg gctgacggaa tttatgcctc ttccgaccat 
+     2341 caagcatttt atccgtactc ctgatgatgc atggttactc accactgcga tccccggaaa 
+     2401 aacagcattc caggtattag aagaatatcc tgattcaggt gaaaatattg ttgatgcgct 
+     2461 ggcagtgttc ctgcgccggt tgcattcgat tcctgtttgt aattgtcctt ttaacagcga 
+     2521 tcgcgtattt cgtctcgctc aggcgcaatc acgaatgaat aacggtttgg ttgatgcgag 
+     2581 tgattttgat gacgagcgta atggctggcc tgttgaacaa gtctggaaag aaatgcataa 
+     2641 acttttgcca ttctcaccgg attcagtcgt cactcatggt gatttctcac ttgataacct 
+     2701 tatttttgac gaggggaaat taataggttg tattgatgtt ggacgagtcg gaatcgcaga 
+     2761 ccgataccag gatcttgcca tcctatggaa ctgcctcggt gagttttctc cttcattaca 
+     2821 gaaacggctt tttcaaaaat atggtattga taatcctgat atgaataaat tgcagtttca 
+     2881 tttgatgctc gatgagtttt tctaatcaga attggttaat tggttgtaac attattcaga 
+     2941 ttgggccccg ttccactgag cgtcagaccc cgtagaaaag atcaaaggat cttcttgaga 
+     3001 tccttttttt ctgcgcgtaa tctgctgctt gcaaacaaaa aaaccaccgc taccagcggt 
+     3061 ggtttgtttg ccggatcaag agctaccaac tctttttccg aaggtaactg gcttcagcag 
+     3121 agcgcagata ccaaatactg ttcttctagt gtagccgtag ttaggccacc acttcaagaa 
+     3181 ctctgtagca ccgcctacat acctcgctct gctaatcctg ttaccagtgg ctgctgccag 
+     3241 tggcgataag tcgtgtctta ccgggttgga ctcaagacga tagttaccgg ataaggcgca 
+     3301 gcggtcgggc tgaacggggg gttcgtgcac acagcccagc ttggagcgaa cgacctacac 
+     3361 cgaactgaga tacctacagc gtgagctatg agaaagcgcc acgcttcccg aagggagaaa 
+     3421 ggcggacagg tatccggtaa gcggcagggt cggaacagga gagcgcacga gggagcttcc 
+     3481 agggggaaac gcctggtatc tttatagtcc tgtcgggttt cgccacctct gacttgagcg 
+     3541 tcgatttttg tgatgctcgt caggggggcg gagcctatgg aaaaacgcca gcaacgcggc 
+     3601 ctttttacgg ttcctggcct tttgctggcc ttttgctcac atgttctttc ctgcgttatc 
+     3661 ccctgattct gtggataacc gtattaccgc tagcatggat ctcggggacg tctaactact 
+     3721 aagcgagagt agggaactgc caggcatcaa ataaaacgaa aggctcagtc ggaagactgg 
+     3781 gcctttcgtt ttatctgttg tttgtcggtg aacgctctcc tgagtaggac aaatccgccg 
+     3841 ggagcggatt tgaacgttgt gaagcaacgg cccggagggt ggcgggcagg acgcccgcca 
+     3901 taaactgcca ggcatcaaac taagcagaag gccatc 
+//
