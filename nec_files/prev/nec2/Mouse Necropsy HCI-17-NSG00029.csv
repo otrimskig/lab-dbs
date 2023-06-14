@@ -1,0 +1,2 @@
+initials,todays_date,mouse_id,disposition,sex,strain,bd,sac_date,age_at_sac,rcas_injection,injection_route,injection_date,virus_1,virus_2,virus_3,virus_4,evidence_of_tumor,date_tumor_reported,dox_tx,duration_of_dox_tx,genotype,tissue_collected,x,formalin_fixed,parafin_block_number_s,x_2,slide_number_s,h_e,ihc,ihc_stain_1,ihc_stain_2,ihc_stain_3,additional_comments
+KT,42815,NSG00029-11,Lethargic; hunched; ungroomed; bloated,Male,NSG,42757,42814,57,Yes,intracranial,42761,MTG4 (cell line),,,,No,,No,NA,NSG,Brain,,Yes,,,,,,,,,Lethargic; hunched; brain and skull appeared normal
