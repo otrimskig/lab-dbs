@@ -6,14 +6,14 @@ readRDS("x drive/x_drive_index.rds")->files
 
 
 #folder
-search_term<-paste0("clara", "\\\\")
+#search_term<-paste0("clara", "\\\\")
 # 
 # #anywhere in path
 # search_term<-"clara"
 
 
 #in filename
-# search_term<-paste0(".*\\/*", "nanodrop", "*")
+ search_term<-paste0(".*\\/*", "digest", "*")
 
 
 
